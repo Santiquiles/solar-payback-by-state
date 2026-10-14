@@ -1,0 +1,51 @@
+rank,state,code,payback_years,net_savings_25y_usd,system_kw,system_cost_usd,year1_savings_usd,price_cents_kwh,kwh_per_kw_year,city,cost_per_w_usd,cost_is_state_median,export_rule,solar_kwh_value_pct_of_retail
+1,Hawaii,HI,8.04,16203,2.33,8389,1044,46.28,1669,Honolulu,3.6,false,net-billing,58
+2,Massachusetts,MA,8.58,26959,4.54,15441,1800,30.14,1315,Boston,3.4,true,net-metering,100
+3,Maine,ME,9.39,25507,4.69,16894,1800,29.99,1279,Portland,3.6,false,net-metering,100
+4,Rhode Island,RI,9.43,25433,4.71,16968,1800,29.22,1307,Providence,3.6,false,net-metering,100
+5,Connecticut,CT,10.34,20461,4.85,16004,1548,27.97,1327,Bridgeport,3.3,true,net-metering,86
+6,New York,NY,10.38,23719,4.79,18682,1800,29.38,1279,New York City,3.9,true,net-metering,100
+7,New Hampshire,NH,10.63,23265,5.32,19136,1800,26.79,1264,Manchester,3.6,false,net-metering,100
+8,California,CA,11.39,11389,3.23,10659,936,33.25,1676,Los Angeles,3.3,true,net-billing,52
+9,New Jersey,NJ,11.64,21440,5.67,20961,1800,23.98,1325,Newark,3.7,true,net-metering,100
+10,Pennsylvania,PA,12.95,19086,6.48,23315,1800,21.04,1321,Philadelphia,3.6,false,net-metering,100
+11,New Mexico,NM,13.19,18660,6.59,23741,1800,15.08,1810,Albuquerque,3.6,false,net-metering,100
+12,Florida,FL,13.63,17874,7.91,24526,1800,15.3,1487,Jacksonville,3.1,true,net-metering,100
+13,Colorado,CO,13.65,17825,6.83,24576,1800,16.72,1577,Denver,3.6,false,net-metering,100
+14,Maryland,MD,14.05,17118,6.32,25283,1800,21.3,1337,Baltimore,4,true,net-metering,100
+15,Alaska,AK,14.70,15940,7.35,26460,1800,27.09,904,Anchorage,3.6,false,net-metering,100
+16,Virginia,VA,15.02,15362,7.51,27038,1800,16.83,1424,Virginia Beach,3.6,false,net-metering,100
+17,Delaware,DE,15.21,15018,7.61,27383,1800,17.86,1325,Wilmington,3.6,false,net-metering,100
+18,Kansas,KS,15.70,14149,7.85,28252,1800,15.21,1508,Wichita,3.6,false,net-metering,100
+19,Vermont,VT,15.82,11146,6.33,22775,1440,23.95,1188,Burlington,3.6,false,net-billing,80
+20,Wyoming,WY,16.62,12490,8.31,29911,1800,13.95,1553,Cheyenne,3.6,false,net-metering,100
+21,Oklahoma,OK,17.16,11516,8.58,30885,1800,13.58,1545,Oklahoma City,3.6,false,net-metering,100
+22,Minnesota,MN,17.23,11392,8.61,31008,1800,16.25,1286,Minneapolis,3.6,false,net-metering,100
+23,Nevada,NV,17.69,8982,7.52,27059,1530,13.53,1770,Las Vegas,3.6,false,net-billing,85
+24,Arizona,AZ,18.28,5893,6.58,20395,1116,15.44,1772,Phoenix,3.1,true,net-billing,62
+25,Missouri,MO,18.51,9078,9.26,33323,1800,13.96,1393,Kansas City,3.6,false,net-metering,100
+26,Washington,WA,18.60,8919,11.16,33482,1800,14.4,1120,Seattle,3,true,net-metering,100
+27,Iowa,IA,18.70,8747,9.35,33653,1800,14.2,1356,Des Moines,3.6,false,net-metering,100
+28,Montana,MT,19.42,7448,9.71,34952,1800,13.95,1329,Billings,3.6,false,net-metering,100
+29,Oregon,OR,19.80,6759,10.48,35641,1800,15.4,1115,Portland,3.4,true,net-metering,100
+30,South Carolina,SC,19.90,4997,7.56,27228,1368,15.93,1494,Charleston,3.6,false,utility-specific,76
+31,Michigan,MI,19.98,4311,6.69,24097,1206,21.53,1249,Detroit,3.6,false,net-billing,67
+32,Nebraska,NE,20.25,5947,10.13,36453,1800,12.9,1378,Omaha,3.6,false,net-metering,100
+33,North Carolina,NC,21.88,2648,8.45,34665,1584,14.94,1425,Charlotte,4.1,true,net-billing,88
+34,Georgia,GA,23.43,150,7.97,28683,1224,15.4,1467,Atlanta,3.6,false,net-billing,68
+35,North Dakota,ND,23.70,-258,11.85,42658,1800,12.36,1229,Fargo,3.6,false,net-metering,100
+36,West Virginia,WV,24.55,-1366,9.33,33591,1368,15.47,1247,Charleston,3.6,false,utility-specific,76
+37,Ohio,OH,24.93,-1507,7.60,27372,1098,18.7,1266,Columbus,3.6,false,net-billing,61
+38,Illinois,IL,25.67,-2325,7.83,28190,1098,19.22,1196,Chicago,3.6,false,net-billing,61
+39,Mississippi,MS,25.70,-2468,8.22,29604,1152,15.19,1441,Jackson,3.6,false,net-billing,64
+40,Kentucky,KY,26.70,-3957,9.34,33637,1260,14.27,1350,Louisville,3.6,false,net-billing,70
+41,Indiana,IN,27.74,-4440,8.18,29456,1062,17.04,1291,Indianapolis,3.6,false,net-billing,59
+42,Alabama,AL,28.36,-4674,7.66,27571,972,16.54,1421,Birmingham,3.6,false,utility-specific,54
+43,Texas,TX,29.72,-6433,7.76,31026,1044,16.06,1445,Houston,4,true,utility-specific,58
+44,Utah,UT,30.60,-7607,9.18,33047,1080,13.16,1490,Salt Lake City,3.6,false,net-billing,60
+45,Wisconsin,WI,30.91,-6753,7.28,28377,918,19,1302,Milwaukee,3.9,true,utility-specific,51
+46,Idaho,ID,31.64,-8736,9.49,34176,1080,12.96,1463,Boise,3.6,false,net-billing,60
+47,Louisiana,LA,32.56,-9238,9.28,33406,1026,13.35,1453,New Orleans,3.6,false,net-billing,57
+48,Arkansas,AR,33.89,-10233,9.32,33553,990,13.61,1419,Little Rock,3.6,false,net-billing,55
+49,South Dakota,SD,34.39,-10339,9.11,32812,954,14.5,1362,Sioux Falls,3.6,false,utility-specific,53
+50,Tennessee,TN,36.74,-12576,9.74,35048,954,13.87,1333,Nashville,3.6,false,utility-specific,53
